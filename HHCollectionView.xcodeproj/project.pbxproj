@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DF27F2B22068856F009084D1 /* timg8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DF27F2AF2068856E009084D1 /* timg8.jpg */; };
+		DF27F2B32068856F009084D1 /* timg9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DF27F2B02068856E009084D1 /* timg9.jpg */; };
+		DF27F2B42068856F009084D1 /* timg7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DF27F2B12068856F009084D1 /* timg7.jpg */; };
 		DF7C01952066389F0070F05D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DF7C01942066389F0070F05D /* AppDelegate.m */; };
 		DF7C01982066389F0070F05D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DF7C01972066389F0070F05D /* ViewController.m */; };
 		DF7C019B2066389F0070F05D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF7C01992066389F0070F05D /* Main.storyboard */; };
@@ -15,6 +18,14 @@
 		DF7C01A3206638A00070F05D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DF7C01A2206638A00070F05D /* main.m */; };
 		DF7C01AD206638A00070F05D /* HHCollectionViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DF7C01AC206638A00070F05D /* HHCollectionViewTests.m */; };
 		DF7C01B8206638A00070F05D /* HHCollectionViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = DF7C01B7206638A00070F05D /* HHCollectionViewUITests.m */; };
+		DF7C01C7206639890070F05D /* AbbrCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = DF7C01C6206639890070F05D /* AbbrCollectionView.m */; };
+		DF7C01CA20663A2C0070F05D /* AbbrLayoutView.m in Sources */ = {isa = PBXBuildFile; fileRef = DF7C01C920663A2C0070F05D /* AbbrLayoutView.m */; };
+		DF7C01D220663AC10070F05D /* timg1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DF7C01CC20663AC10070F05D /* timg1.jpg */; };
+		DF7C01D320663AC10070F05D /* timg2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DF7C01CD20663AC10070F05D /* timg2.jpg */; };
+		DF7C01D420663AC10070F05D /* timg3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DF7C01CE20663AC10070F05D /* timg3.jpg */; };
+		DF7C01D520663AC10070F05D /* timg4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DF7C01CF20663AC10070F05D /* timg4.jpg */; };
+		DF7C01D620663AC10070F05D /* timg5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DF7C01D020663AC10070F05D /* timg5.jpg */; };
+		DF7C01D720663AC10070F05D /* timg6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DF7C01D120663AC10070F05D /* timg6.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +46,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DF27F2AF2068856E009084D1 /* timg8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = timg8.jpg; sourceTree = "<group>"; };
+		DF27F2B02068856E009084D1 /* timg9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = timg9.jpg; sourceTree = "<group>"; };
+		DF27F2B12068856F009084D1 /* timg7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = timg7.jpg; sourceTree = "<group>"; };
 		DF7C01902066389F0070F05D /* HHCollectionView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HHCollectionView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF7C01932066389F0070F05D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		DF7C01942066389F0070F05D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -51,6 +65,16 @@
 		DF7C01B3206638A00070F05D /* HHCollectionViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HHCollectionViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF7C01B7206638A00070F05D /* HHCollectionViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HHCollectionViewUITests.m; sourceTree = "<group>"; };
 		DF7C01B9206638A00070F05D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DF7C01C5206639890070F05D /* AbbrCollectionView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AbbrCollectionView.h; sourceTree = "<group>"; };
+		DF7C01C6206639890070F05D /* AbbrCollectionView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AbbrCollectionView.m; sourceTree = "<group>"; };
+		DF7C01C820663A2C0070F05D /* AbbrLayoutView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AbbrLayoutView.h; sourceTree = "<group>"; };
+		DF7C01C920663A2C0070F05D /* AbbrLayoutView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AbbrLayoutView.m; sourceTree = "<group>"; };
+		DF7C01CC20663AC10070F05D /* timg1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = timg1.jpg; sourceTree = "<group>"; };
+		DF7C01CD20663AC10070F05D /* timg2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = timg2.jpg; sourceTree = "<group>"; };
+		DF7C01CE20663AC10070F05D /* timg3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = timg3.jpg; sourceTree = "<group>"; };
+		DF7C01CF20663AC10070F05D /* timg4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = timg4.jpg; sourceTree = "<group>"; };
+		DF7C01D020663AC10070F05D /* timg5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = timg5.jpg; sourceTree = "<group>"; };
+		DF7C01D120663AC10070F05D /* timg6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = timg6.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +125,10 @@
 		DF7C01922066389F0070F05D /* HHCollectionView */ = {
 			isa = PBXGroup;
 			children = (
+				DF7C01C5206639890070F05D /* AbbrCollectionView.h */,
+				DF7C01C6206639890070F05D /* AbbrCollectionView.m */,
+				DF7C01C820663A2C0070F05D /* AbbrLayoutView.h */,
+				DF7C01C920663A2C0070F05D /* AbbrLayoutView.m */,
 				DF7C01932066389F0070F05D /* AppDelegate.h */,
 				DF7C01942066389F0070F05D /* AppDelegate.m */,
 				DF7C01962066389F0070F05D /* ViewController.h */,
@@ -110,6 +138,7 @@
 				DF7C019E2066389F0070F05D /* LaunchScreen.storyboard */,
 				DF7C01A1206638A00070F05D /* Info.plist */,
 				DF7C01A2206638A00070F05D /* main.m */,
+				DF7C01CB20663AC10070F05D /* images */,
 			);
 			path = HHCollectionView;
 			sourceTree = "<group>";
@@ -130,6 +159,22 @@
 				DF7C01B9206638A00070F05D /* Info.plist */,
 			);
 			path = HHCollectionViewUITests;
+			sourceTree = "<group>";
+		};
+		DF7C01CB20663AC10070F05D /* images */ = {
+			isa = PBXGroup;
+			children = (
+				DF27F2B12068856F009084D1 /* timg7.jpg */,
+				DF27F2AF2068856E009084D1 /* timg8.jpg */,
+				DF27F2B02068856E009084D1 /* timg9.jpg */,
+				DF7C01CC20663AC10070F05D /* timg1.jpg */,
+				DF7C01CD20663AC10070F05D /* timg2.jpg */,
+				DF7C01CE20663AC10070F05D /* timg3.jpg */,
+				DF7C01CF20663AC10070F05D /* timg4.jpg */,
+				DF7C01D020663AC10070F05D /* timg5.jpg */,
+				DF7C01D120663AC10070F05D /* timg6.jpg */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -239,8 +284,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				DF7C01A02066389F0070F05D /* LaunchScreen.storyboard in Resources */,
+				DF7C01D320663AC10070F05D /* timg2.jpg in Resources */,
+				DF7C01D420663AC10070F05D /* timg3.jpg in Resources */,
 				DF7C019D2066389F0070F05D /* Assets.xcassets in Resources */,
+				DF7C01D520663AC10070F05D /* timg4.jpg in Resources */,
+				DF7C01D220663AC10070F05D /* timg1.jpg in Resources */,
+				DF7C01D620663AC10070F05D /* timg5.jpg in Resources */,
 				DF7C019B2066389F0070F05D /* Main.storyboard in Resources */,
+				DF27F2B42068856F009084D1 /* timg7.jpg in Resources */,
+				DF7C01D720663AC10070F05D /* timg6.jpg in Resources */,
+				DF27F2B22068856F009084D1 /* timg8.jpg in Resources */,
+				DF27F2B32068856F009084D1 /* timg9.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,9 +319,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF7C01CA20663A2C0070F05D /* AbbrLayoutView.m in Sources */,
 				DF7C01982066389F0070F05D /* ViewController.m in Sources */,
 				DF7C01A3206638A00070F05D /* main.m in Sources */,
 				DF7C01952066389F0070F05D /* AppDelegate.m in Sources */,
+				DF7C01C7206639890070F05D /* AbbrCollectionView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -433,6 +489,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = R45LY736NP;
 				INFOPLIST_FILE = HHCollectionView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.HHCollectionView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -447,6 +504,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = R45LY736NP;
 				INFOPLIST_FILE = HHCollectionView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.HHCollectionView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
